@@ -1,6 +1,13 @@
 Eudyptula Challenge
 ===================
 
+my attempt at learning kernel programming.
+
+assuming this is idiomatic or even working code is a fool's errand that
+is bound to end in a furious storm of profanity and `rm -rf`s.
+
+you have been warned.
+
 ###Task 01
 Write a Linux kernel module, and stand-alone Makefile, that when loaded
 prints to the kernel debug log level, "Hello World!"  Be sure to make
